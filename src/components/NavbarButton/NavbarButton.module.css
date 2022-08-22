@@ -1,0 +1,6 @@
+.button{
+    width: 80%;
+    margin-bottom: .5rem;
+    margin-top: .5rem;
+    justify-content: flex-start;
+}

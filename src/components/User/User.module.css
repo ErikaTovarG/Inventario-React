@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.name{
+    display: flex;
+    margin-right: 1rem;
+    align-items: center;
+}
+.avatar{
+    width: 3.5rem;
+    height: 3.5rem;
+    margin-right: 1rem;
+}
+.icon{
+    font-size: 3rem;
+}
